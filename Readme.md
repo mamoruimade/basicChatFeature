@@ -48,7 +48,7 @@ Before running the script, create the following folders in the project directory
 - **`paper`**: Store PDF files that you want to summarize.
 - **`output`**: Store the output summary text files.
 - **`error_logs`**: Store error logs when issues occur.
-- **`system_prompt`**: Add system prompt text files here. These files define the instructions for the language model to generate responses.
+- **`system_prompt`**: Add system prompt text files here. These files define the instructions for the language model to generate responses. You can add any system prompts.
 
 You can create these folders manually or by running the following commands in the terminal:
 ```bash
