@@ -1,0 +1,5 @@
+.env
+error_logs/
+output/
+paper/
+venv/
